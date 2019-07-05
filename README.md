@@ -1,2 +1,2 @@
-# Aggro
-A collection of useful aggressor scripts. All credits due to its authors.
+# AggressorCollection
+Collection of awesome Cobalt Strike Aggressor Scripts. All credit due to the authors
